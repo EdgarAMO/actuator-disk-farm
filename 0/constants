@@ -1,0 +1,43 @@
+/*--------------------------------*- C++ -*----------------------------------*\
+| =========                 |                                                 |
+| \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox           |
+|  \\    /   O peration     | Version:  v1906                                 |
+|   \\  /    A nd           | Web:      www.OpenFOAM.com                      |
+|    \\/     M anipulation  |                                                 |
+\*---------------------------------------------------------------------------*/
+
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+// CONSTANTS
+
+#include 					"../system/data"
+
+U		$U0;				// freestream velocity
+R		$ro;				// turbine's radius
+NU		1.5e-5; 			// kinematic viscosity
+I		0.07;   			// turbulence intensity
+
+// SIMULATION PARAMETERS
+
+// TKE:		1.5 * (U * I) ** 2
+// epsilon:	(Cm ^ 0.75) * (k ^ 1.5) / L
+// nut:		Cm * (k ^ 2) / epsilon
+			
+k			#calc"(3./2.) * pow($U * $I, 2)";
+epsilon  	#calc"pow(0.09, 0.75) * pow($k, 1.5) / (0.08 * 2 * $R)";
+nut   		#calc"0.09 * pow($k, 2) / $epsilon";
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
