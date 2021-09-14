@@ -1,0 +1,115 @@
+numberOfDisks
+{
+    nod     10;
+}
+
+actuatorDisk0
+{
+    interiorRadius  1.50;
+    exteriorRadius  40.00;
+    thrust          161000.00;
+    torque          281500.00;
+    density         1.00;
+    startPoint      (2.00 0.00 0.00);
+    endPoint        (-2.00 0.00 0.00);
+}
+
+actuatorDisk1
+{
+    interiorRadius  1.50;
+    exteriorRadius  40.00;
+    thrust          161000.00;
+    torque          281500.00;
+    density         1.00;
+    startPoint      (562.00 0.00 0.00);
+    endPoint        (558.00 0.00 0.00);
+}
+
+actuatorDisk2
+{
+    interiorRadius  1.50;
+    exteriorRadius  40.00;
+    thrust          161000.00;
+    torque          281500.00;
+    density         1.00;
+    startPoint      (1122.00 0.00 0.00);
+    endPoint        (1118.00 0.00 0.00);
+}
+
+actuatorDisk3
+{
+    interiorRadius  1.50;
+    exteriorRadius  40.00;
+    thrust          161000.00;
+    torque          281500.00;
+    density         1.00;
+    startPoint      (1682.00 0.00 0.00);
+    endPoint        (1678.00 0.00 0.00);
+}
+
+actuatorDisk4
+{
+    interiorRadius  1.50;
+    exteriorRadius  40.00;
+    thrust          161000.00;
+    torque          281500.00;
+    density         1.00;
+    startPoint      (2242.00 0.00 0.00);
+    endPoint        (2238.00 0.00 0.00);
+}
+
+actuatorDisk5
+{
+    interiorRadius  1.50;
+    exteriorRadius  40.00;
+    thrust          161000.00;
+    torque          281500.00;
+    density         1.00;
+    startPoint      (2802.00 0.00 0.00);
+    endPoint        (2798.00 0.00 0.00);
+}
+
+actuatorDisk6
+{
+    interiorRadius  1.50;
+    exteriorRadius  40.00;
+    thrust          161000.00;
+    torque          281500.00;
+    density         1.00;
+    startPoint      (3362.00 0.00 0.00);
+    endPoint        (3358.00 0.00 0.00);
+}
+
+actuatorDisk7
+{
+    interiorRadius  1.50;
+    exteriorRadius  40.00;
+    thrust          161000.00;
+    torque          281500.00;
+    density         1.00;
+    startPoint      (3922.00 0.00 0.00);
+    endPoint        (3918.00 0.00 0.00);
+}
+
+actuatorDisk8
+{
+    interiorRadius  1.50;
+    exteriorRadius  40.00;
+    thrust          161000.00;
+    torque          281500.00;
+    density         1.00;
+    startPoint      (4482.00 0.00 0.00);
+    endPoint        (4478.00 0.00 0.00);
+}
+
+actuatorDisk9
+{
+    interiorRadius  1.50;
+    exteriorRadius  40.00;
+    thrust          161000.00;
+    torque          281500.00;
+    density         1.00;
+    startPoint      (5042.00 0.00 0.00);
+    endPoint        (5038.00 0.00 0.00);
+}
+

@@ -1,0 +1,180 @@
+	cylinder30
+        	{
+        		mode 		 inside;
+        		levels 		 ((3 3));
+        	}
+
+	cylinder20
+        	{
+        		mode 		 inside;
+        		levels 		 ((2 2));
+        	}
+
+	cylinder10
+        	{
+        		mode 		 inside;
+        		levels 		 ((1 1));
+        	}
+
+	cylinder31
+        	{
+        		mode 		 inside;
+        		levels 		 ((3 3));
+        	}
+
+	cylinder21
+        	{
+        		mode 		 inside;
+        		levels 		 ((2 2));
+        	}
+
+	cylinder11
+        	{
+        		mode 		 inside;
+        		levels 		 ((1 1));
+        	}
+
+	cylinder32
+        	{
+        		mode 		 inside;
+        		levels 		 ((3 3));
+        	}
+
+	cylinder22
+        	{
+        		mode 		 inside;
+        		levels 		 ((2 2));
+        	}
+
+	cylinder12
+        	{
+        		mode 		 inside;
+        		levels 		 ((1 1));
+        	}
+
+	cylinder33
+        	{
+        		mode 		 inside;
+        		levels 		 ((3 3));
+        	}
+
+	cylinder23
+        	{
+        		mode 		 inside;
+        		levels 		 ((2 2));
+        	}
+
+	cylinder13
+        	{
+        		mode 		 inside;
+        		levels 		 ((1 1));
+        	}
+
+	cylinder34
+        	{
+        		mode 		 inside;
+        		levels 		 ((3 3));
+        	}
+
+	cylinder24
+        	{
+        		mode 		 inside;
+        		levels 		 ((2 2));
+        	}
+
+	cylinder14
+        	{
+        		mode 		 inside;
+        		levels 		 ((1 1));
+        	}
+
+	cylinder35
+        	{
+        		mode 		 inside;
+        		levels 		 ((3 3));
+        	}
+
+	cylinder25
+        	{
+        		mode 		 inside;
+        		levels 		 ((2 2));
+        	}
+
+	cylinder15
+        	{
+        		mode 		 inside;
+        		levels 		 ((1 1));
+        	}
+
+	cylinder36
+        	{
+        		mode 		 inside;
+        		levels 		 ((3 3));
+        	}
+
+	cylinder26
+        	{
+        		mode 		 inside;
+        		levels 		 ((2 2));
+        	}
+
+	cylinder16
+        	{
+        		mode 		 inside;
+        		levels 		 ((1 1));
+        	}
+
+	cylinder37
+        	{
+        		mode 		 inside;
+        		levels 		 ((3 3));
+        	}
+
+	cylinder27
+        	{
+        		mode 		 inside;
+        		levels 		 ((2 2));
+        	}
+
+	cylinder17
+        	{
+        		mode 		 inside;
+        		levels 		 ((1 1));
+        	}
+
+	cylinder38
+        	{
+        		mode 		 inside;
+        		levels 		 ((3 3));
+        	}
+
+	cylinder28
+        	{
+        		mode 		 inside;
+        		levels 		 ((2 2));
+        	}
+
+	cylinder18
+        	{
+        		mode 		 inside;
+        		levels 		 ((1 1));
+        	}
+
+	cylinder39
+        	{
+        		mode 		 inside;
+        		levels 		 ((3 3));
+        	}
+
+	cylinder29
+        	{
+        		mode 		 inside;
+        		levels 		 ((2 2));
+        	}
+
+	cylinder19
+        	{
+        		mode 		 inside;
+        		levels 		 ((1 1));
+        	}
+

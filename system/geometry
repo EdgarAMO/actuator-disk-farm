@@ -1,0 +1,240 @@
+	cylinder30
+            	{
+            		type   		 searchableCylinder;
+            		point1 		 (-42.000   0.000   0.000);
+            		point2 		 ( 42.000   0.000   0.000);
+            		radius 		  46.000;
+            	}
+
+	cylinder20
+            	{
+            		type   		 searchableCylinder;
+            		point1 		 (-82.000   0.000   0.000);
+            		point2 		 (162.000   0.000   0.000);
+            		radius 		  60.000;
+            	}
+
+	cylinder10
+            	{
+            		type   		 searchableCylinder;
+            		point1 		 (-122.000   0.000   0.000);
+            		point2 		 (242.000   0.000   0.000);
+            		radius 		  80.000;
+            	}
+
+	cylinder31
+            	{
+            		type   		 searchableCylinder;
+            		point1 		 (518.000   0.000   0.000);
+            		point2 		 (602.000   0.000   0.000);
+            		radius 		  46.000;
+            	}
+
+	cylinder21
+            	{
+            		type   		 searchableCylinder;
+            		point1 		 (478.000   0.000   0.000);
+            		point2 		 (722.000   0.000   0.000);
+            		radius 		  60.000;
+            	}
+
+	cylinder11
+            	{
+            		type   		 searchableCylinder;
+            		point1 		 (438.000   0.000   0.000);
+            		point2 		 (802.000   0.000   0.000);
+            		radius 		  80.000;
+            	}
+
+	cylinder32
+            	{
+            		type   		 searchableCylinder;
+            		point1 		 (1078.000   0.000   0.000);
+            		point2 		 (1162.000   0.000   0.000);
+            		radius 		  46.000;
+            	}
+
+	cylinder22
+            	{
+            		type   		 searchableCylinder;
+            		point1 		 (1038.000   0.000   0.000);
+            		point2 		 (1282.000   0.000   0.000);
+            		radius 		  60.000;
+            	}
+
+	cylinder12
+            	{
+            		type   		 searchableCylinder;
+            		point1 		 (998.000   0.000   0.000);
+            		point2 		 (1362.000   0.000   0.000);
+            		radius 		  80.000;
+            	}
+
+	cylinder33
+            	{
+            		type   		 searchableCylinder;
+            		point1 		 (1638.000   0.000   0.000);
+            		point2 		 (1722.000   0.000   0.000);
+            		radius 		  46.000;
+            	}
+
+	cylinder23
+            	{
+            		type   		 searchableCylinder;
+            		point1 		 (1598.000   0.000   0.000);
+            		point2 		 (1842.000   0.000   0.000);
+            		radius 		  60.000;
+            	}
+
+	cylinder13
+            	{
+            		type   		 searchableCylinder;
+            		point1 		 (1558.000   0.000   0.000);
+            		point2 		 (1922.000   0.000   0.000);
+            		radius 		  80.000;
+            	}
+
+	cylinder34
+            	{
+            		type   		 searchableCylinder;
+            		point1 		 (2198.000   0.000   0.000);
+            		point2 		 (2282.000   0.000   0.000);
+            		radius 		  46.000;
+            	}
+
+	cylinder24
+            	{
+            		type   		 searchableCylinder;
+            		point1 		 (2158.000   0.000   0.000);
+            		point2 		 (2402.000   0.000   0.000);
+            		radius 		  60.000;
+            	}
+
+	cylinder14
+            	{
+            		type   		 searchableCylinder;
+            		point1 		 (2118.000   0.000   0.000);
+            		point2 		 (2482.000   0.000   0.000);
+            		radius 		  80.000;
+            	}
+
+	cylinder35
+            	{
+            		type   		 searchableCylinder;
+            		point1 		 (2758.000   0.000   0.000);
+            		point2 		 (2842.000   0.000   0.000);
+            		radius 		  46.000;
+            	}
+
+	cylinder25
+            	{
+            		type   		 searchableCylinder;
+            		point1 		 (2718.000   0.000   0.000);
+            		point2 		 (2962.000   0.000   0.000);
+            		radius 		  60.000;
+            	}
+
+	cylinder15
+            	{
+            		type   		 searchableCylinder;
+            		point1 		 (2678.000   0.000   0.000);
+            		point2 		 (3042.000   0.000   0.000);
+            		radius 		  80.000;
+            	}
+
+	cylinder36
+            	{
+            		type   		 searchableCylinder;
+            		point1 		 (3318.000   0.000   0.000);
+            		point2 		 (3402.000   0.000   0.000);
+            		radius 		  46.000;
+            	}
+
+	cylinder26
+            	{
+            		type   		 searchableCylinder;
+            		point1 		 (3278.000   0.000   0.000);
+            		point2 		 (3522.000   0.000   0.000);
+            		radius 		  60.000;
+            	}
+
+	cylinder16
+            	{
+            		type   		 searchableCylinder;
+            		point1 		 (3238.000   0.000   0.000);
+            		point2 		 (3602.000   0.000   0.000);
+            		radius 		  80.000;
+            	}
+
+	cylinder37
+            	{
+            		type   		 searchableCylinder;
+            		point1 		 (3878.000   0.000   0.000);
+            		point2 		 (3962.000   0.000   0.000);
+            		radius 		  46.000;
+            	}
+
+	cylinder27
+            	{
+            		type   		 searchableCylinder;
+            		point1 		 (3838.000   0.000   0.000);
+            		point2 		 (4082.000   0.000   0.000);
+            		radius 		  60.000;
+            	}
+
+	cylinder17
+            	{
+            		type   		 searchableCylinder;
+            		point1 		 (3798.000   0.000   0.000);
+            		point2 		 (4162.000   0.000   0.000);
+            		radius 		  80.000;
+            	}
+
+	cylinder38
+            	{
+            		type   		 searchableCylinder;
+            		point1 		 (4438.000   0.000   0.000);
+            		point2 		 (4522.000   0.000   0.000);
+            		radius 		  46.000;
+            	}
+
+	cylinder28
+            	{
+            		type   		 searchableCylinder;
+            		point1 		 (4398.000   0.000   0.000);
+            		point2 		 (4642.000   0.000   0.000);
+            		radius 		  60.000;
+            	}
+
+	cylinder18
+            	{
+            		type   		 searchableCylinder;
+            		point1 		 (4358.000   0.000   0.000);
+            		point2 		 (4722.000   0.000   0.000);
+            		radius 		  80.000;
+            	}
+
+	cylinder39
+            	{
+            		type   		 searchableCylinder;
+            		point1 		 (4998.000   0.000   0.000);
+            		point2 		 (5082.000   0.000   0.000);
+            		radius 		  46.000;
+            	}
+
+	cylinder29
+            	{
+            		type   		 searchableCylinder;
+            		point1 		 (4958.000   0.000   0.000);
+            		point2 		 (5202.000   0.000   0.000);
+            		radius 		  60.000;
+            	}
+
+	cylinder19
+            	{
+            		type   		 searchableCylinder;
+            		point1 		 (4918.000   0.000   0.000);
+            		point2 		 (5282.000   0.000   0.000);
+            		radius 		  80.000;
+            	}
+
